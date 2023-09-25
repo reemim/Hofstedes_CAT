@@ -95,6 +95,17 @@ An Explanatory Analysis Based on Hofstede’s Cultural
 Dimensions (paper under review)</a></li>
 </ul>
 
+<h3>Citation</h3>
+<pre><code>
+@misc{masoud2023cultural,
+  author = {Reem I. Masoud and Ziquan Liu and Martin Ferianc and Philip Treleaven and Miguel Rodrigues},
+  title  = {Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions},
+  month  = {aug},
+  year   = {2023},
+  url    = {https://arxiv.org/abs/2309.12342}
+}
+</code></pre>
+
 <hr>
 
 <p>
