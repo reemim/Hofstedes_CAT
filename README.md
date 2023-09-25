@@ -90,7 +90,7 @@
 
 <h3>📄 Publication:</h3>
 <ul>
-    <li><a href="Cultural_Alignment_in_LLMs.pdf">Cultural Alignment in Large Language Models:
+    <li><a href="https://arxiv.org/abs/2309.12342">Cultural Alignment in Large Language Models:
 An Explanatory Analysis Based on Hofstede’s Cultural
 Dimensions (paper under review)</a></li>
 </ul>
