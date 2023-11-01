@@ -7,7 +7,7 @@
 
 <h3>📖 Abstract:</h3>
 <p>
-        The deployment of large language models (LLMs) raises concerns regarding their cultural misalignment and potential ramifications on individuals from various cultural norms. Our recent research introduced the Cultural Alignment Test (CAT) to quantify this alignment. CAT utilizes Hofstede’s cultural dimension framework, providing an insightful cross-cultural comparison through latent variable analysis. The study delved into the cultural values ingrained in top LLMs like ChatGPT and Bard, with a specific focus on countries like the US, Saudi Arabia, China, and Slovakia. Findings from the research offer a quantified understanding of LLMs' cultural alignment, spotlighting GPT-4's exemplary performance in capturing US cultural values.
+        The deployment of large language models (LLMs) raises concerns regarding their cultural misalignment and potential ramifications on individuals from various cultural norms. Our recent research introduced the Cultural Alignment Test (CAT) to quantify this alignment. CAT utilizes Hofstede’s cultural dimension framework, providing an insightful cross-cultural comparison through latent variable analysis. The study examined the cultural values ingrained in top LLMs like ChatGPT and Bard, with a specific focus on countries like the US, Saudi Arabia, China, and Slovakia. Findings from the research offer a quantified understanding of LLMs' cultural alignment, spotlighting GPT-4's exemplary performance in capturing US cultural values.
 </p>
 
 <h3>🔍 Key Features of CAT:</h3>
