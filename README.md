@@ -123,12 +123,13 @@ Dimensions (paper under review)</a></li>
 
 <h3>Citation</h3>
 <pre><code>
-@misc{masoud2023cultural,
-  author = {Reem I. Masoud and Ziquan Liu and Martin Ferianc and Philip Treleaven and Miguel Rodrigues},
-  title  = {Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions},
-  month  = {aug},
-  year   = {2023},
-  url    = {https://arxiv.org/abs/2309.12342}
+@inproceedings{
+masoud2024cultural,
+title={Cultural Alignment in Large Language Models: An Explanatory Analysis Based on Hofstede's Cultural Dimensions},
+author={Reem Masoud and Ziquan Liu and Martin Ferianc and Philip Colin Treleaven and Miguel R. D. Rodrigues},
+booktitle={Global AI Cultures  @ ICLR 2024},
+year={2024},
+url={https://openreview.net/forum?id=HFt68VRiCb}
 }
 </code></pre>
 
