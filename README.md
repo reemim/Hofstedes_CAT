@@ -81,7 +81,7 @@
 
 
 <h3>📽️ Demo:</h3>
-<p>Try out our demo on <a href="link">Google Colab</a> to explore the cultural alignment of your desired LLMs.</p>
+<p>Try out our demo on <a href="https://colab.research.google.com/drive/1dlPOpcRZhpxZU9pXbAuHzWGeFIneMadk#scrollTo=KmnbyU8f5VhG">Google Colab</a> to explore the cultural alignment of your desired LLMs.</p>
 
 <!-- Collaborators section -->
 <h3>🤝 Collaborators:</h3>
